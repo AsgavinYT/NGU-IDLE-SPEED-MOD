@@ -4,7 +4,7 @@ This is a very simple mod that can increase the speed of NGU IDLE to x100. Obvio
 WARNING: THIS MOD IS CODED ENTIRELY BY CLAUDE.AI, IT WORKS PERFECTLY FINE FOR ME AND ITS VERY SIMPLE BUT I HAVE NO IDEA HOW TO FIX ANYTHING IF IT BREAKS FOR YOU.
 
 # Installation
-Download the latest x64 version of [bepinex](https://github.com/BepInEx/BepInEx) (right now is v5.4.23.4) which can be downloaded [here](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.4).
+Download the latest x64 version of [bepinex](https://github.com/BepInEx/BepInEx) (right now its v5.4.23.4) which can be downloaded [here](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.4).
 
 And extract all the contents of the zip to NGU Idle's game folder `...\Steam\steamapps\common\NGU IDLE`:
 
