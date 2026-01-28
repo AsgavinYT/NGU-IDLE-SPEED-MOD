@@ -31,11 +31,11 @@ Shift + Numpad Minus(-): Decrease speed by 10
 
 Numpad 0: Reset to 1.0x
 
-Numpad 1: Reset to 25.0x
+Numpad 1: Set to 25.0x
 
-Numpad 2: Reset to 50.0x
+Numpad 2: Set to 50.0x
 
-Numpad 3: Reset to 75.0x
+Numpad 3: Set to 75.0x
 
 Numpad Asterisk(*): Set to MAX (100x)
 
